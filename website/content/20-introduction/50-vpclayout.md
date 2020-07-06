@@ -13,6 +13,3 @@ In our case, we are going to provide three types of VPCs:
 1. **Production VPCs**: This is for our live production systems.
 1. **Shared Resources**: For resources and services that we want shared across all VPCs.
 
-Also, we need a VPC to represent our on-premise environment, a simulated Datacenter.
-
-1. **Datacenter**: In this workshop we need to simulate a Datacenter. In the real world, this would be our existing Datacenter or co-location facility with all the hardware contained, but we are going to make our own version in the cloud!

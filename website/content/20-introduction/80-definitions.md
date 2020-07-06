@@ -6,7 +6,7 @@ weight = 80
 
 **Key Definitions**
 
-- **attachment** — You can attach a VPC or VPN connection to an AWS Transit Gateway.
+- **attachment** — You can attach a VPC, Direct Connect Gateway or Site-to-Site VPN connection to an AWS Transit Gateway.
 
 - **transit gateway route table** — A Transit Gateway has a default route table and can optionally have additional route tables. A route table includes dynamic and static routes that decide the next hop based on the destination IP address of the packet. The target of these routes could be a VPC or a VPN connection. By default, the VPCs and VPN connections that you attach to a Transit Gateway are associated with the default Transit Gateway route table.
 
